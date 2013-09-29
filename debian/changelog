@@ -1,3 +1,10 @@
+debathena-from-config (1.5.5) unstable; urgency=low
+
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (native)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 05:36:32 -0400
+
 debathena-from-config (1.5.4) unstable; urgency=low
 
   * Bump debian/compat to 6
